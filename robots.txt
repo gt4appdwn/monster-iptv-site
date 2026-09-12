@@ -1,0 +1,9 @@
+# Robots.txt for Monster IPTV
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/thank-you/
+
+# Sitemap location
+Sitemap: https://iptv-monster.shop/sitemap.xml
